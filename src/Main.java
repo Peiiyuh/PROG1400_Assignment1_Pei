@@ -12,5 +12,8 @@ public class Main {
         String teamOneName = teamOne.nextLine();  // Read user input
         System.out.println(teamOneName);  // Output user input
 
+
+
+
     }
 }
